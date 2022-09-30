@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Cliente>
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+<h1>Clientes</h1>
+<hr/>
+<a class="btn btn-primary" asp-controller="Clientes" asp-action="Create">Criar</a>
+
+<table class="table table-responsive table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model=>model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model=>model.Comentario)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model=>model.Nota)
+            </th>
+
+            <th>
+                Opções
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cliente in Model)
+        {
+            <tr>
+                <td>
+                    @cliente.Nome
+                </td>
+
+                <td>
+                    @cliente.Comentario
+                </td>
+
+                <td>
+                    @cliente.Nota
+                </td>
+
+                <td>
+                    <a class="btn btn-primary" asp-controller="Clientes" asp-action="Edit" asp-route-id="@cliente.Id">Editar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
