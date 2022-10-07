@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\T-Gamer\\source\\repos\\AulaMVC\\AulaMVC\\AulaMVC.csproj": {}
+    "C:\\Users\\T-Gamer\\Source\\Repos\\MvcDesafio\\AulaMVC\\AulaMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\T-Gamer\\source\\repos\\AulaMVC\\AulaMVC\\AulaMVC.csproj": {
+    "C:\\Users\\T-Gamer\\Source\\Repos\\MvcDesafio\\AulaMVC\\AulaMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T-Gamer\\source\\repos\\AulaMVC\\AulaMVC\\AulaMVC.csproj",
+        "projectUniqueName": "C:\\Users\\T-Gamer\\Source\\Repos\\MvcDesafio\\AulaMVC\\AulaMVC.csproj",
         "projectName": "AulaMVC",
-        "projectPath": "C:\\Users\\T-Gamer\\source\\repos\\AulaMVC\\AulaMVC\\AulaMVC.csproj",
+        "projectPath": "C:\\Users\\T-Gamer\\Source\\Repos\\MvcDesafio\\AulaMVC\\AulaMVC.csproj",
         "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T-Gamer\\source\\repos\\AulaMVC\\AulaMVC\\obj\\",
+        "outputPath": "C:\\Users\\T-Gamer\\Source\\Repos\\MvcDesafio\\AulaMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",

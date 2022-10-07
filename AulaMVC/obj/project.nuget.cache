@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9gDsCzTkCwART3z0CProlBklwE+kBraJnuM8GX0scIvLbQ6p8GuYG2ofaMRIm7k4nOEhFUmrdE/NDnnoQYwH6Q==",
+  "dgSpecHash": "6DxM4AaVNhuKk77kbIbPLEaqVpZx6M0VoNl3UStc/Cm2cuaAFOnhQcflSNxhU/+xOyx6TMTIw+GWWFZTVqZFrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\T-Gamer\\source\\repos\\AulaMVC\\AulaMVC\\AulaMVC.csproj",
+  "projectFilePath": "C:\\Users\\T-Gamer\\Source\\Repos\\MvcDesafio\\AulaMVC\\AulaMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\T-Gamer\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\T-Gamer\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
